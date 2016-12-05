@@ -1,0 +1,17 @@
+{
+    "name": "myara/skeleton",
+    "description": "CodeIgniter Application Skeleton with Blade via composer",
+    "authors": [
+        {
+            "name": "Rodrigo Borges",
+            "email": "rbm0407@gmail.com",
+            "homepage": "http://rodrigoborges.info",
+            "role": "Developer"
+        }
+
+    ],
+    "license": "GPL-3.0+",
+    "require": {
+        "philo/laravel-blade": "3.*"
+    }
+}
