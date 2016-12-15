@@ -1,3 +1,5 @@
+## This is a mirror repository. The source repository is: [https://bitbucket.org/myara/skeleton](https://bitbucket.org/myara/skeleton)
+
 ## Myara Skeleton
 
 This is a skeleton application for [CodeIgniter](https://codeigniter.com/user_guide/) Projects, is configured to run with [Blade](https://laravel.com/docs/5.3/blade) templating.
